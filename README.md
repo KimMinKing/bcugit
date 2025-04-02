@@ -1,0 +1,2 @@
+# bcugit
+git실습
